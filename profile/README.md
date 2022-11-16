@@ -5,22 +5,22 @@ El equipo se ensambló desde un inicio, la colaboración y el entusiasmo fueron 
 
 ⭐ Integrantes
 
-Christian Aguilar ⇢ linkedin ⇢ github
+Christian Aguilar ⇢ linkedin ⇢ [github](https://github.com/xchristx)
 
 
-Raúl Ducret ⇢ linkedin ⇢ github
+Raúl Ducret ⇢ linkedin ⇢ [github](https://github.com/red1730)
 
 
-Luis Ceñal ⇢ linkedin ⇢ github
+Luis Ceñal ⇢ linkedin ⇢ [github](https://github.com/luchocenial)
 
 
-Gabriel Pretel ⇢ linkedin ⇢ github
+Gabriel Pretel ⇢ linkedin ⇢ [github](https://github.com/Gabipretel)
 
 
-Matías Vega ⇢ linkedin ⇢ github
+Matías Vega ⇢ linkedin ⇢ [github](https://github.com/ElMatiVega)
 
 
-Cecilia Sosa ⇢ linkedin ⇢ github
+Cecilia Sosa ⇢ linkedin ⇢  [github](https://github.com/mcecisosa)
 
 
 [Javier Gutierrez](https://dkndrd.com) ⇢ [linkedin](https://www.linkedin.com/in/dukindroid) ⇢ [github](https://github.com/dukindroid)
