@@ -13,7 +13,7 @@ Luis Ceñal => <span style="margin-top:5px" >[![Linkedin](https://img.shields.io
 
 Alan Gabriel Pretel => <span style="margin-top:5px" >[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pretel-2ab1551b7/)  => [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/Gabipretel) </span>
 
-Matías Vega  => <span style="margin-top:5px" >[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/)  => [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ElMatiVega) </span>
+Matías Vega  => <span style="margin-top:5px" >[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-vega-dev/)  => [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ElMatiVega) </span>
 
 Cecilia Sosa => <span style="margin-top:5px" >[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-sosa-56702b94/)  => [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/mcecisosa) </span>
 
